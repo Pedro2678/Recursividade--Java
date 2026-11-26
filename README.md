@@ -214,4 +214,4 @@ Além disso, permite compreender a relação entre chamadas recursivas, pilha de
 
 ---
 
-Desenvolvido para a disciplina de Estruturas de Dados II — UNIPÊ.
+Desenvolvido para a disciplina de Estruturas de Dados II — UNIPÊ!
