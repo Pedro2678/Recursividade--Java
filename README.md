@@ -26,8 +26,8 @@ O projeto apresenta exemplos matemáticos e musicais, relacionando conceitos te�
 
 ### Integrantes
 
-- Nome completo do integrante 1
-- Nome completo do integrante 2
+- Pedro Henrique de Araújo Nunes
+- Thales Alberto Leal de Farias
 
 ## 🎯 Objetivos
 
@@ -204,7 +204,7 @@ O programa foi desenvolvido para fins didáticos, utilizando entradas válidas e
 
 ## 🎥 Vídeo de apresentação
 
-O link do vídeo será disponibilizado após a publicação.
+https://youtu.be/V0RNJkW_1Vc
 
 ## 📌 Conclusão
 
